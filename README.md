@@ -1,2 +1,2 @@
 # shaketrack
-Dataset: Acceleration data of 90 handshakes, recorded at the wrist and the finger of the participants.
+Dataset: Acceleration data of 90 handshakes, recorded with motion sensors at the wrist and at the finger.
